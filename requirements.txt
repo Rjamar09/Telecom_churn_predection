@@ -4,3 +4,4 @@ sciki-learn
 imblearn
 streamlit
 flask
+sklearn
