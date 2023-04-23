@@ -4,4 +4,3 @@ scikit-learn
 imblearn
 streamlit
 flask
-sklearn
