@@ -2,3 +2,5 @@ pandas
 pickle
 sciki-learn
 imblearn
+streamlit
+flask
